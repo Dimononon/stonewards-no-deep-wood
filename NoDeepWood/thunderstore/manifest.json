@@ -1,0 +1,9 @@
+{
+  "name": "NoDeepWood",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/Dimononon/stonewards-no-deep-wood",
+  "description": "Stops scrap wood spawning when you dig in the last two biomes. Only the host needs it.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305"
+  ]
+}
